@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+	<modules>
+		<Wikishore_Vendor>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Wikishore_Vendor>
+	</modules>
+</config>
